@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F2437F66-7C00-44A2-A2D1-9FF9777D4823}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Program.cs">
+    <Files>
+      <File FileName="Assignment3/Program.cs" Line="82" Column="8" />
+      <File FileName="Assignment3/Models/MyService.cs" Line="15" Column="1" />
+      <File FileName="Assignment3/Controllers/MyController.cs" Line="9" Column="12" />
+      <File FileName="Assignment3/Middleware/CustomMiddleware.cs" Line="25" Column="1" />
+      <File FileName="Assignment3/Middleware/MiddlewareExtensionMethod.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment3" expanded="True">
+            <Node name="Assignment3" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Middleware" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
